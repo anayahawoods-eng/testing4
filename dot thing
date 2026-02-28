@@ -1,0 +1,18 @@
+// make it the galxiy
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(76, 120, 78);
+  noStroke()
+  fill(180, 147, 237)
+circle(mouseX,mouseY,24,70)}
+
+if (mouseX < 50) {
+    // Code to run if the mouse is on the left.
+  }
+
+  if (mouseY > 50) {
+    // Code to run if the mouse is near the bottom.
+  }
